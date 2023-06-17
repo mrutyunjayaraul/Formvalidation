@@ -1,0 +1,30 @@
+#form{
+   color:rgb(226, 43, 171);
+}
+#name{
+    font-family:"Times New Roman", Times, serif;
+    border: 2px;
+    border-style: solid;
+    border-color: red;
+    padding: 2px;
+    margin: 40px;
+
+}#email{
+    border: 2px;
+    border-style: solid;
+    border-color: red;
+    padding: 2px;
+    padding-right: 5px;
+    margin: 40px;
+
+}#rollNo{
+    border: 2px;
+    border-style: solid;
+    border-color:red ;
+    padding: 2px;
+    margin: 40px;
+}#Submit{
+    border-style: solid;
+    border-color:red ;
+    color:rgb(192, 26, 14)
+}
